@@ -6,7 +6,7 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/prabhur24/prabhur24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhur24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhur24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/prabhur24/prabhur24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhur24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prabhu's GitHub Stats" />
