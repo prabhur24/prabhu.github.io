@@ -1,7 +1,7 @@
 
 # Hello, folks!
 
-My name is Prabhu, and I'm a Software Engineer. I'm from Tiruppur, living in Delhi and currently working at Technogram Solutions. You can find me on [![Twitter][1.2]][1].
+My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu), living in Delhi and currently working at Technogram Solutions. You can find me on [![Twitter][1.2]][1].
 
 ## &#x1f4c8; GitHub Stats
 
