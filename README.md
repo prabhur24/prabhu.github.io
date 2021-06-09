@@ -6,11 +6,6 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 ## &#x1f4c8; GitHub Stats
 
 
-<div align="left" inline>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=prabhur24&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhu" /> </span>
-<span align="left"> <a href="https://twitter.com/prabhur24" target="blank"><img src="https://img.shields.io/twitter/follow/prabhur24?logo=twitter&style=for-the-badge" alt="Prabhu" /></a> </span>
-</div>
-
 ### My GitHub Stats
 
 <!-- links to social media icons -->
@@ -53,4 +48,9 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhur24&" alt="Prabhu" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=prabhur24&show_icons=true&locale=en" alt="Prabhu" />
+</div>
+
+<div align="left" inline>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=prabhur24&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhu" /> </span>
+<span align="left"> <a href="https://twitter.com/prabhur24" target="blank"><img src="https://img.shields.io/twitter/follow/prabhur24?logo=twitter&style=for-the-badge" alt="Prabhu" /></a> </span>
 </div>
