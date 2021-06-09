@@ -12,10 +12,6 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 </div>
 
 ### My GitHub Stats
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhur24&" alt="Prabhu" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=prabhur24&show_icons=true&locale=en" alt="Prabhu" />
-</div>
 
 <!-- links to social media icons -->
 
@@ -50,3 +46,8 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhur24&" alt="Prabhu" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=prabhur24&show_icons=true&locale=en" alt="Prabhu" />
+</div>
