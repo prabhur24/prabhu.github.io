@@ -6,8 +6,6 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 ## &#x1f4c8; GitHub Stats
 
 
-### My GitHub Stats
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -44,6 +42,8 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+### My GitHub Stats
 
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhur24&" alt="Prabhu" />
