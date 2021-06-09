@@ -3,9 +3,6 @@
 
 My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu), living in Delhi and currently working at Technogram Solutions. You can find me on [![Twitter][1.2]][1].
 
-## &#x1f4c8; GitHub Stats
-
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -43,7 +40,7 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-### My GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhur24&" alt="Prabhu" />
