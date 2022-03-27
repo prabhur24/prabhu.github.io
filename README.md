@@ -17,11 +17,11 @@ My name is Prabhu, and I'm a Software Engineer. I'm from Dharapuram(Tamil Nadu),
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [101 on Kafka &lpar;beginners&rpar;](https://medium.com/everythingatonce/101-on-kafka-beginners-fdf1b36eb059?source=rss-13d9e742dd73------2)
 - [What is Elastic Block Store and What we should know about?](https://medium.com/everythingatonce/what-is-elastic-block-store-and-what-we-should-know-about-5ab3c4199c3a?source=rss-13d9e742dd73------2)
 - [101 On Aerospike Data Base for Beginners](https://medium.com/everythingatonce/101-on-aerospike-data-base-for-beginners-ea0408e0493e?source=rss-13d9e742dd73------2)
 - [What is Elastic Cloud Compute and What we should know about?](https://medium.com/everythingatonce/what-is-elastic-cloud-compute-and-what-we-should-know-about-6e68b119a20c?source=rss-13d9e742dd73------2)
 - [Runlevels , rc.d Scripts and Copy System Logs to S3](https://medium.com/everythingatonce/runlevels-rc-d-scripts-and-copy-system-logs-to-s3-885578e3bc26?source=rss-13d9e742dd73------2)
-- [Why Spring ? &amp; 101 On Spring Start!](https://medium.com/@prabhur24/why-spring-101-on-spring-start-3be672f9d75?source=rss-13d9e742dd73------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
