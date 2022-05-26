@@ -1,14 +1,7 @@
 
 # Hello, folks!
 
-My name is Prabhu, and I'm a Software Engineer, currently working at Technogram Solutions. You can find me on Twitter,[![Twitter][1.2]][1].
-
-[As in Technogram Solutions]
-
-1. Leading Flight product team and integrated 25+ suppliers(rest/soap).
-2. Involving new Design and implementing features.
-3. Implemented Jenkins automation of jobs. 
-4. Involving on bottlenecks to solve the problem.
+Yes!,Myself Prabhu, and I'm a Software Engineer 2, currently working at Technogram Solutions. You can find me on Twitter,[![Twitter][1.2]][1].
 
 <!-- links to social media icons -->
 
