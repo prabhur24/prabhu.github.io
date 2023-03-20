@@ -1,7 +1,7 @@
 
 # Hello, folks!
 
-Yes!,Myself Prabhu, and I'm a Software Engineer 2, currently working at Technogram Solutions. You can find me on Twitter,[![Twitter][1.2]][1].
+Yes!,Myself Prabhu, and I'm a Software Engineer 2, currently working at TripJack. You can find me on Twitter,[![Twitter][1.2]][1].
 
 <!-- links to social media icons -->
 
